@@ -5,30 +5,30 @@ Origin: NexH4ck APT Repository
 Label: NexH4ck
 Suite: nexh4ck
 Codename: nexh4ck
-Date: Fri, 28 Aug 2026 14:40:56 UTC
+Date: Fri, 28 Aug 2026 14:52:23 UTC
 Architectures: all
 Components: main
 Description: Authorized Termux security lab terminal (Daemon-018)
 MD5Sum:
- 84b2bb1a2ef6ec1ad2cdf58f2954fa41 563 main/binary-all/Packages
- 2c08e1e638ae95616b80d4b71832dd45 425 main/binary-all/Packages.gz
+ 58c8b4dc96d1d67e5136db3deedeba16 563 main/binary-all/Packages
+ afa68aacb4c15d34ea7c7ba765aefbf5 423 main/binary-all/Packages.gz
 SHA1:
- b2e77b90c6a47a678a0e74913b20c66a32abc301 563 main/binary-all/Packages
- b7b77a741a2917b79d3909ca4a5b4420981296a2 425 main/binary-all/Packages.gz
+ a9312c60cbbef92dd10c3fa76e838a0d560c53a9 563 main/binary-all/Packages
+ a92f7aa8af62887d439c5b4138c55e513ddde41f 423 main/binary-all/Packages.gz
 SHA256:
- c634bb6202f342c43a0f8f60a9a485d9be1dcc5eefd96a1bb7bd08502b608b6f 563 main/binary-all/Packages
- 8a9f727322adcec24e6ab838edc0f427f9bb79f97e256cc66b61c925ba62df9c 425 main/binary-all/Packages.gz
+ b813e5cfda4e1e3e9ccd645519236b2bb16b5d7e4ce00d59eb1203881687166a 563 main/binary-all/Packages
+ 66ec9595a97b45258d0796e2cfcb26bc48d186391567e31b875aceb7c014fed5 423 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQHPBAEBCAA5FiEETIo5few4Zk61FyESpO4wpC3wlBAFAmqRnfkbFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMywyAAoJEKTuMKQt8JQQd2QL/AsnPD/5xx7s3soq5jq7
-yXavKb/2zwubxutNDZ5Ony7eXW95P/vfcb1uJ1VVG5vdwN7wKJR+qz8n0LFWAr7G
-B+7WqkPmM1Kf/E/bTB52S4AOgEvCvJpKYRCIOhomzTELYxgMolKrzF7nGa/EOJF2
-AORIFIwNnLYCd4GnX8pni/QOyYqXH91QYaMm4JwHUZc+FAAoylWa5Ldb50B/CsOM
-i8/ltW4Ar9dGaxX+5chLjKBZ5dkIrlKqPBf7PUJQGYPLn4sTVvUWmPeT1VdA+agS
-/KCXl0Gytah7fCrbXevT+KfDt+NHFZvj8bZhe3Xoin9zdi06QH1hzHG00ZB62hHi
-SJ+lGvV3ZtVXZILp4AaVOrbcU86QQOFIIX6qLLfs7ftpJBPjFbfiOB3bsZm4H6Ug
-mEA16/6SNnRD8Q+8amM5e13ow6lnlnPgcYcP29yPWzJ+b2/NLW+O0M7faMjD98gE
-c3TQLzgbNb4FthjshQShTWieh7I/7LUtTuNMpT8Mwm8rUQ==
-=xwlf
+iQHPBAEBCAA5FiEETIo5few4Zk61FyESpO4wpC3wlBAFAmqRoKcbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMywyAAoJEKTuMKQt8JQQMmgMAIGKsH5bgDH8FE3pjMHq
+T7QDzq8ExboWmPOeEOfcAB0xbEAasQzE7jZGz+e/fs4Rr8J4a6oPHEWqtMezdI5G
+nGeApcG35cG560TzR9FKfxZVDA5u6SI57SzKvFHAx3FR11FRXOEL8+9KX/A0PZQ5
+Xq0hTtOJtEQOpeSVaZElU13d72lIsH419E/2WtN2iLIaLXXi9wd3vzuhXAZ5OI/J
+GcqXcVsOdXLdQ/Ht0pl8CkHkt59gtiwL+nfuf5r1MSE+GG2JFsKvOTrWPYWjdnMF
+FznH0RqCCFS6q15UEyUAU4l0xU2r1AFc/Wbs8nmrihkvb+0jyeVB0hKjmOhrD8Bl
+4gnYCFrWsMb6v2fdWP7mqc+sm2y7/ZZmbf9o0YEr+10fjw0WOV97FmI3SDIZEG3I
+iYPXr6AqCdry3DlTJRR+JpbBIC3w9GpNJtvQ+R1LOSIoUgUHBrxF7ppd5h6LWBjv
+DbJF1VQ6Jyi4je/O2GRjy4PKZbXEMaKxlZTkx6t81NdOdQ==
+=SR1+
 -----END PGP SIGNATURE-----

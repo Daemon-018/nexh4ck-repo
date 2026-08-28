@@ -2,16 +2,16 @@ Origin: NexH4ck APT Repository
 Label: NexH4ck
 Suite: nexh4ck
 Codename: nexh4ck
-Date: Fri, 28 Aug 2026 14:40:56 UTC
+Date: Fri, 28 Aug 2026 14:52:23 UTC
 Architectures: all
 Components: main
 Description: Authorized Termux security lab terminal (Daemon-018)
 MD5Sum:
- 84b2bb1a2ef6ec1ad2cdf58f2954fa41 563 main/binary-all/Packages
- 2c08e1e638ae95616b80d4b71832dd45 425 main/binary-all/Packages.gz
+ 58c8b4dc96d1d67e5136db3deedeba16 563 main/binary-all/Packages
+ afa68aacb4c15d34ea7c7ba765aefbf5 423 main/binary-all/Packages.gz
 SHA1:
- b2e77b90c6a47a678a0e74913b20c66a32abc301 563 main/binary-all/Packages
- b7b77a741a2917b79d3909ca4a5b4420981296a2 425 main/binary-all/Packages.gz
+ a9312c60cbbef92dd10c3fa76e838a0d560c53a9 563 main/binary-all/Packages
+ a92f7aa8af62887d439c5b4138c55e513ddde41f 423 main/binary-all/Packages.gz
 SHA256:
- c634bb6202f342c43a0f8f60a9a485d9be1dcc5eefd96a1bb7bd08502b608b6f 563 main/binary-all/Packages
- 8a9f727322adcec24e6ab838edc0f427f9bb79f97e256cc66b61c925ba62df9c 425 main/binary-all/Packages.gz
+ b813e5cfda4e1e3e9ccd645519236b2bb16b5d7e4ce00d59eb1203881687166a 563 main/binary-all/Packages
+ 66ec9595a97b45258d0796e2cfcb26bc48d186391567e31b875aceb7c014fed5 423 main/binary-all/Packages.gz
