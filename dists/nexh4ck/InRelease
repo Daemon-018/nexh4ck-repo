@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: NexH4ck APT Repository
+Label: NexH4ck
+Suite: nexh4ck
+Codename: nexh4ck
+Date: Fri, 28 Aug 2026 14:40:56 UTC
+Architectures: all
+Components: main
+Description: Authorized Termux security lab terminal (Daemon-018)
+MD5Sum:
+ 84b2bb1a2ef6ec1ad2cdf58f2954fa41 563 main/binary-all/Packages
+ 2c08e1e638ae95616b80d4b71832dd45 425 main/binary-all/Packages.gz
+SHA1:
+ b2e77b90c6a47a678a0e74913b20c66a32abc301 563 main/binary-all/Packages
+ b7b77a741a2917b79d3909ca4a5b4420981296a2 425 main/binary-all/Packages.gz
+SHA256:
+ c634bb6202f342c43a0f8f60a9a485d9be1dcc5eefd96a1bb7bd08502b608b6f 563 main/binary-all/Packages
+ 8a9f727322adcec24e6ab838edc0f427f9bb79f97e256cc66b61c925ba62df9c 425 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQHPBAEBCAA5FiEETIo5few4Zk61FyESpO4wpC3wlBAFAmqRnfkbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMywyAAoJEKTuMKQt8JQQd2QL/AsnPD/5xx7s3soq5jq7
+yXavKb/2zwubxutNDZ5Ony7eXW95P/vfcb1uJ1VVG5vdwN7wKJR+qz8n0LFWAr7G
+B+7WqkPmM1Kf/E/bTB52S4AOgEvCvJpKYRCIOhomzTELYxgMolKrzF7nGa/EOJF2
+AORIFIwNnLYCd4GnX8pni/QOyYqXH91QYaMm4JwHUZc+FAAoylWa5Ldb50B/CsOM
+i8/ltW4Ar9dGaxX+5chLjKBZ5dkIrlKqPBf7PUJQGYPLn4sTVvUWmPeT1VdA+agS
+/KCXl0Gytah7fCrbXevT+KfDt+NHFZvj8bZhe3Xoin9zdi06QH1hzHG00ZB62hHi
+SJ+lGvV3ZtVXZILp4AaVOrbcU86QQOFIIX6qLLfs7ftpJBPjFbfiOB3bsZm4H6Ug
+mEA16/6SNnRD8Q+8amM5e13ow6lnlnPgcYcP29yPWzJ+b2/NLW+O0M7faMjD98gE
+c3TQLzgbNb4FthjshQShTWieh7I/7LUtTuNMpT8Mwm8rUQ==
+=xwlf
+-----END PGP SIGNATURE-----

@@ -1,0 +1,17 @@
+Origin: NexH4ck APT Repository
+Label: NexH4ck
+Suite: nexh4ck
+Codename: nexh4ck
+Date: Fri, 28 Aug 2026 14:40:56 UTC
+Architectures: all
+Components: main
+Description: Authorized Termux security lab terminal (Daemon-018)
+MD5Sum:
+ 84b2bb1a2ef6ec1ad2cdf58f2954fa41 563 main/binary-all/Packages
+ 2c08e1e638ae95616b80d4b71832dd45 425 main/binary-all/Packages.gz
+SHA1:
+ b2e77b90c6a47a678a0e74913b20c66a32abc301 563 main/binary-all/Packages
+ b7b77a741a2917b79d3909ca4a5b4420981296a2 425 main/binary-all/Packages.gz
+SHA256:
+ c634bb6202f342c43a0f8f60a9a485d9be1dcc5eefd96a1bb7bd08502b608b6f 563 main/binary-all/Packages
+ 8a9f727322adcec24e6ab838edc0f427f9bb79f97e256cc66b61c925ba62df9c 425 main/binary-all/Packages.gz
