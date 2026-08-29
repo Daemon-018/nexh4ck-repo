@@ -1,5 +1,5 @@
 Package: nexh4ck
-Version: 0.1.0
+Version: 0.1.1
 Architecture: all
 Maintainer: Hari (Daemon-018) <daemon018@users.noreply.github.com>
 Installed-Size: 40
@@ -8,9 +8,9 @@ Section: security
 Priority: optional
 Homepage: https://github.com/Daemon-018/NexH4ck
 Description: Authorized Termux security lab terminal (i-Haklab-style menu + termuxvoid/apt lite-install model).
-Filename: debs/nexh4ck_0.1.0_all.deb
-Size: 4672
-MD5sum: 44d4c9f05e7bf0100c5dc5d783d1b3f5
-SHA1: d4f216bdbd22eec67b44123a25156e1142fcc9a2
-SHA256: 49036ed8144a2378ff763b21c37c16fa7b640587f23dc3a8ad4862910194d328
+Filename: debs/nexh4ck_0.1.1_all.deb
+Size: 4760
+MD5sum: 99d770355439d5d5cac08101b55445bd
+SHA1: 26bc7f09e98569f209f685abd259a75ec43afe7e
+SHA256: 6b187b73cde7fe24006e68ef9412d70e14b068ca72fac77f15df24df572372ee
 
